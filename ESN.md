@@ -8,7 +8,7 @@ graph TB
 A[Manually choose a parameterizable computational model ]-->B[Manually choose a training algorithm and its parameters for the model.]
 B-->C[Train the model to perform a desired task by adapting its free parameter using the algorithm]
 ```
-==The workflow requires many subjective choices and a lot of human supervisiong==
+*The workflow requires many subjective choices and a lot of human supervisiong*
 ## For optimal metaparameters
 - There are typically no good
 meta-parameter optimization strategies that would effectively reduce the number
